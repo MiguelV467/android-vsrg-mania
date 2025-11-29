@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VSRG Mania</string>
+    <string name="select_beatmap">Select Beatmap (.osu)</string>
+    <string name="start_game">Start Game</string>
+</resources>
